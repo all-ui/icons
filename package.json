@@ -1,0 +1,23 @@
+{
+  "name": "@allui/icons",
+  "version": "0.0.1",
+  "description": "An all-in-one UI Icons Library for efficient web application development.",
+  "scripts": {
+    "pub": "npm publish"
+  },
+  "keywords": [],
+  "author": "Vikram Chauhan",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/all-ui/css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/all-ui/css"
+  },
+  "files": [
+    "dist"
+  ],
+  "style": "dist/allui-icons.css"
+}
